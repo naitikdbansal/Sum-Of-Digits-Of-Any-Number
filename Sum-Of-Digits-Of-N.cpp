@@ -20,6 +20,7 @@ i=a;
 
 cout<<"Your sum is : "<<sum<<endl;
 
+return 0;
 
 }
 
